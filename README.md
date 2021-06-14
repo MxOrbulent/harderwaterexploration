@@ -24,6 +24,9 @@ A rare reward from the [Megalodon](#megalodon), a incredibly tough boss designed
 The Super Sail gives you a massive 25% speed boost to boats on water, During rain it's 30%! However like the normal sail, during thunderstorms it's detrimental to have it out. 
 It cannot be crafted and cannot be repaired (one can toggle to make it repairable however, in which case phantom membranes are required, 3 of them).
 
+##### Megalodon Tooth
+Basically a trophy gained for killing the [Megalodon](#megalodon).
+
 ### Mechanical/Balance changes and/or additions
 
 ### Mobs rebalanced/added
@@ -36,7 +39,25 @@ There's also a 0,001% chance of a Megalodon spawning while fishing with anything
 Finally, the Megalodon can be taunted to appear by fishing in a ocean with a glowing worm.
 
 It's basically a gigantic fucking shark, and I woulnd't fuck with him if I were you.
-It's HP scales to the number of players it can find within a 4k block radius upon it's spawn. If it get's over 2200 HP on spawn, it will add a additionall roll on it's table upon death.If it get's over 4400 HP, it will add an additional 40 bottles of enchanting to it's drop, 2 extra megalodon tooths will drop, and 
+It's HP scales to the number of players it can find within a 4k block radius upon it's spawn. If it get's over 2200 HP on spawn, it will add a additionall roll on it's table upon death. If it get's over 4400 HP, it will add an additional 40 bottles of enchanting to it's drop, 2 extra [Megalodon tooths](#megalodon-tooth) will drop (for a total of 3).
+
+The number of rolls on the table upon the death of the Megalodon is decided by the level of fortune that killed it.
+1 roll = No Fortune enchantment, 2 rolls = Fortune Level 1, 3 rolls = Fortune Level 2.
+
+
+Here's the loot table (below 2200 hp):
+
+|Item |Chance |Amount |Comments |
+--- | --- | ---
+|Megalodon Tooth|100%|1|No matter how many rolls, only a single tooth will drop, this always drops|
+|Bottle of Enchanting|100%|40|No matter how many rolls, a max of 40 Bottles will drop, this always drops|
+|Totem of Undying|15%|1-3|33% chance of 1, 33% chance of 2, 33 % chance of 3|
+|Enchant: Channeling|15%|1-2|50/50 chance of either amount dropping|
+|Enchant: Mending|15%|2-4|40% chance of 2, 40% chance of 3, 20% chance of 4|
+|Super Sail|20%|1-2|50/50 chance of either amount dropping|
+|||||
+|||||
+|||||
 
 ### License
 
