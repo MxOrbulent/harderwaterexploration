@@ -47,17 +47,23 @@ The number of rolls on the table upon the death of the Megalodon is decided by t
 
 Here's the loot table (below 2200 hp):
 
-|Item |Chance |Amount |Comments |
---- | --- | ---
-|Megalodon Tooth|100%|1|No matter how many rolls, only a single tooth will drop, this always drops|
-|Bottle of Enchanting|100%|40|No matter how many rolls, a max of 40 Bottles will drop, this always drops|
-|Totem of Undying|15%|1-3|33% chance of 1, 33% chance of 2, 33 % chance of 3|
-|Enchant: Channeling|15%|1-2|50/50 chance of either amount dropping|
-|Enchant: Mending|15%|2-4|40% chance of 2, 40% chance of 3, 20% chance of 4|
-|Super Sail|20%|1-2|50/50 chance of either amount dropping|
+| Item | Chance | Amount | Comments |
+| --------------- | --------------- | --------------- | --------------- |
+| Megalodon Tooth | 100% | 1 | No matter how many rolls, only a single tooth will drop, this always drops |
+|Bottle of Enchanting | 100% | 40 | No matter how many rolls, a max of 40 Bottles will drop, this always drops |
+|Totem of Undying | 15% | 1-3 | 33% chance of 1, 33% chance of 2, 33 % chance of 3 |
+|Enchant: Channeling | 15% | 1-2 | 50/50 chance of either amount dropping |
+|Enchant: Mending | 15% | 2-4 | 40% chance of 2, 40% chance of 3, 20% chance of 4 |
+|Super Sail | 20% | 1-2 | 50/50 chance of either amount dropping |
 |||||
 |||||
 |||||
+
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
 ### License
 
