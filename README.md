@@ -24,6 +24,12 @@ A rare reward from the [Megalodon](#megalodon), a incredibly tough boss designed
 The Super Sail gives you a massive 25% speed boost to boats on water, During rain it's 30%! However like the normal sail, during thunderstorms it's detrimental to have it out. 
 It cannot be crafted and cannot be repaired (one can toggle to make it repairable however, in which case phantom membranes are required, 3 of them).
 
+##### Chest Attachment
+Adding this to a boat allows you to attach a chest to the boat, works kinda like the donkey chest works. Crafted with 1 chest, 2 string and 4 iron ingots.
+
+##### Enderchest Attachment
+Adding this to a boat allows you to attach a enderchest to the boat, works kinda like the donkey chest but has enderchest properties. Cannot be crafted.
+
 ##### Megalodon Tooth
 Basically a trophy gained for killing the [Megalodon](#megalodon).
 
@@ -41,6 +47,8 @@ Finally, the Megalodon can be taunted to appear by fishing in a ocean with a glo
 It's basically a gigantic fucking shark, and I woulnd't fuck with him if I were you.
 It's HP scales to the number of players it can find within a 4k block radius upon it's spawn. If it get's over 2200 HP on spawn, it will add a additionall roll on it's table upon death. If it get's over 4400 HP, it will add an additional 40 bottles of enchanting to it's drop, 2 extra [Megalodon tooths](#megalodon-tooth) will drop (for a total of 3).
 
+If Above 10000 hp, it will drop 64 Emeral Blocks guaranteed.
+
 The number of rolls on the table upon the death of the Megalodon is decided by the level of fortune that killed it.
 1 roll = No Fortune enchantment, 2 rolls = Fortune Level 1, 3 rolls = Fortune Level 2.
 
@@ -50,20 +58,18 @@ Here's the loot table (below 2200 hp):
 | Item | Chance | Amount | Comments |
 | --------------- | --------------- | --------------- | --------------- |
 | Megalodon Tooth | 100% | 1 | No matter how many rolls, only a single tooth will drop, this always drops |
-|Bottle of Enchanting | 100% | 40 | No matter how many rolls, a max of 40 Bottles will drop, this always drops |
-|Totem of Undying | 15% | 1-3 | 33% chance of 1, 33% chance of 2, 33 % chance of 3 |
-|Enchant: Channeling | 15% | 1-2 | 50/50 chance of either amount dropping |
-|Enchant: Mending | 15% | 2-4 | 40% chance of 2, 40% chance of 3, 20% chance of 4 |
-|Super Sail | 20% | 1-2 | 50/50 chance of either amount dropping |
-|||||
-|||||
-|||||
+| Bottle of Enchanting | 100% | 40 | No matter how many rolls, a max of 40 Bottles will drop, this always drops |
+| Totem of Undying | 15% | 1-3 | 33% chance of 1, 33% chance of 2, 33 % chance of 3 |
+| Enchant: Channeling | 15% | 1-2 | 50/50 chance of either amount dropping |
+| Enchant: Mending | 15% | 2-4 | 40% chance of 2, 40% chance of 3, 20% chance of 4 |
+| Super Sail | 20% | 1-2 | 50/50 chance of either amount dropping |
+| Skeleton head | 10% | 2 | Seems like sombody sailed a raft down into those jaws, but they never made it out... |
+| Golden Chest | 10% | 1 | Contains anywhere between 1 emerald, 1 iron and 1 diamond to 20 of each and has it's own loot table |
+| EnderChest Attachment | 14% | 2-4 | 50% chance of 2, 24% chance of 3, 1 % chance of 4.  |
+| Dragon Boat | 1% | 1 | Ultra rare boat that has a 20% speedboost, with a sail equipped it also has a jump function |
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+
+
 
 ### License
 
