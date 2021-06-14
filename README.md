@@ -38,13 +38,19 @@ Basically a trophy gained for killing the [Megalodon](#megalodon).
 ### Mobs rebalanced/added
 
 ##### Sharks
-##### Megalodon
+Sharks are neutral mobs who can only survive in the ocean biome and it's deratives, all other bodies of water kills it (exception is sharks summoned by command or similar cheat).
+They enter a bloodlust if you or another mob is closer than 30 blocks with less than full HP. Once the bloodlust has been activated, it lasts for 180 seconds and is refreshed if attacked. During it, sharks will attack anything that is not a dolphin or a megalodon.
+It attacks by swimming towards you and taking a bite, then it tries to swim away so you can't retaliate as easily because it's bad at turning.
+You can completely dodge a attack by blocking with a shield when it attacks, but it costs 1/4 of the durability on the shield.
 
+##### Megalodon
 The megalodon is a boss type monster that has a 0,05% chance of spawning between 2000 to 8000 blocks to anyone player that is close to a ocean biome. It tries to make a spawn every 2 minutes during thunderstorms. If a Megalodon did not spawn that day, the chance increases by 0,01% up to a max of 1%. On a successfull spawn this resets.
 There's also a 0,001% chance of a Megalodon spawning while fishing with anything less than Luck of the Sea 1 enchantment in the ocean.
 Finally, the Megalodon can be taunted to appear by fishing in a ocean with a glowing worm.
 
 It's basically a gigantic fucking shark, and I woulnd't fuck with him if I were you.
+it follows the basic Shark AI when attacking but is always in a permanent bloodlust, it also slaps it's tail sometimes, if you are near the tail or directly under it, you'll get the wind knocked out of you, disabling your ability to move for 5 seconds, removing 80% of your current oxygen and causing you to swim 10% slower for 10 seconds. Shield blocking works for the Megalodon too in order to completely dodge a attack. But a full durability shield can only take 2 attacks instead of the Sharks 4 attacks before breaking.
+
 It's HP scales to the number of players it can find within a 4k block radius upon it's spawn. If it get's over 2200 HP on spawn, it will add a additionall roll on it's table upon death. If it get's over 4400 HP, it will add an additional 40 bottles of enchanting to it's drop, 2 extra [Megalodon tooths](#megalodon-tooth) will drop (for a total of 3).
 
 If Above 10000 hp, it will drop 64 Emeral Blocks guaranteed.
