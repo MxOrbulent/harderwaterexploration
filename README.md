@@ -11,13 +11,20 @@ This mod aims to change that by adding new content and rebelancing some mechanic
 
 ### Items
 
+##### Glue
+Glue is a core component of many recipes for the Harder Water Exploration mod. To make Glue, place a cauldron above a fireplace, then add a bucket of water to the cauldron. Then toss in a cooked beef, 2 bonemeal and a leather piece or a bunny leather piece. After 10 seconds, bubbles will appear in the cauldron, right click it to recivie 1 glue. The number of glue you get is based on the number of ingredients you tossed in, but only 16 glue per cooking, for a stack of 64 glue for example, you need to toss in 64 cooked beef, 2 stacks of bonemeal and 64 leather. You can make at most 16 glue every 10 seconds.
 ##### Bamboo pipe
-Can be created by combining string, bamboo and flint. When worn in your main hand, it works as a less capable but cheaper bow and arrow, but they shoot wheat seeds (giving seeds, a extremly common plant material, some additional usage, and also gives players a very early game ranged option). Seeds have a theoretical max range of 80% less than the bow and arrow, and are also overall 20% slower. Each seed item can be turned into 2 seed ammo. Each seed deals half a heart of damage.
+Can be created by cutting the bamboo in half with a grindstone, then you need to carve it with a flint (put flint and 2 bamboo halves onto the 2x2 crafting grid to get 2 carved bamboo halves). You need a total of 4 bamboo halves to make the bamboo pipe. Combine 4 bamboo halves with 2 string and 1 glue to get the Bamboo pipe.
+
+When worn in your main hand, it works as a less capable but cheaper bow and arrow, but they shoot wheat seeds (giving seeds, a extremly common plant material, some additional usage, and also gives players a very early game ranged option). Seeds have a theoretical max range of 80% less than the bow and arrow, and are also overall 20% slower. Each seed item can be turned into 2 seed ammo. Each seed deals half a heart of damage.
 Finally! Wearing the Bamboo pipe in the headgear slot or the off-hand slot (giving you options on if you want to swim with a shield or have a helmet with enchantments) extends the amount of blocks you can dive under the water surface by 3 blocks (4 blocks if you have fullfilled the "Master Of The Waves" achivement). 
 This makes this item infinitly usefull to carry with you even into late game.
 
+##### Flippers
+A pair of flippers that increases Swimming speed by 23%, bringing you 8% above the default swim speed of minecraft. They are made with 4 leather, 2 glue and  2string.
+
 ##### Sail
-This allows you to attach a sail to your boat, increasing it's travel speed on water by 10%. During rain it's 15%. During thunderstorms, it's detrimental to have a sail out, so keep it off during those. Cannot have mending but can be repaired with 3 leather. Crafted with 2 sticks, 1 iron, 3 leather and 2 string.
+This allows you to attach a sail to your boat, increasing it's travel speed on water by 10%. During rain it's 15%. During thunderstorms, it's detrimental to have a sail out, so keep it off during those. Cannot have enchantments but can be repaired with 3 leather. Has a complex crafting recipe, but the totals you need are 6 leather, 5 glue, 3 iron ingots, 3 sticks and 3 string. The Sail can have a "flag" attached which is basically a slot for a minecraft map. Just combine the Sail with a item frame.
 
 ##### Super Sail
 A rare reward from the [Megalodon](#megalodon), a incredibly tough boss designed to make you shit your pants while sailing during a thunderstorm and show some respect for the sea.
@@ -33,7 +40,17 @@ Adding this to a boat allows you to attach a enderchest to the boat, works kinda
 ##### Megalodon Tooth
 Basically a trophy gained for killing the [Megalodon](#megalodon).
 
+
+##### 
+##### 
+##### 
+
 ### Mechanical/Balance changes and/or additions
+- Reduced the maxair of players by 150. Effectively cutting the amount of air meter in half from Minecrafts default.
+- Reduced the speed of regaining air by 10%
+- Increased the speed at which you loose air by 15%.
+- Reduced the swim speed by 15%
+
 
 ### Mobs rebalanced/added
 
@@ -72,7 +89,7 @@ Here's the loot table (below 2200 hp):
 | Skeleton head | 10% | 2 | Seems like sombody sailed a raft down into those jaws, but they never made it out... |
 | Golden Chest | 10% | 1 | Contains anywhere between 1 emerald, 1 iron and 1 diamond to 20 of each and has it's own loot table |
 | EnderChest Attachment | 14% | 2-4 | 50% chance of 2, 24% chance of 3, 1 % chance of 4.  |
-| Dragon Boat | 1% | 1 | Ultra rare boat that has a 20% speedboost, with a sail equipped it also has a jump function |
+| Dragon Boat | 1% | 1 | Ultra rare boat that has a 20% speedboost, with a sail equipped it also has a jump function (the dragon boats speedbost stack with other sailing bonuses) |
 
 
 
