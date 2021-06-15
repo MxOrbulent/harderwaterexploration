@@ -14,17 +14,17 @@ This mod aims to change that by adding new content and rebelancing some mechanic
 ##### Glue
 Glue is a core component of many recipes for the Harder Water Exploration mod. To make Glue, place a cauldron above a fireplace, then add a bucket of water to the cauldron. Then toss in a cooked beef, 2 bonemeal and a leather piece or a bunny leather piece. After 10 seconds, bubbles will appear in the cauldron, right click it to recivie 1 glue. The number of glue you get is based on the number of ingredients you tossed in, but only 16 glue per cooking, for a stack of 64 glue for example, you need to toss in 64 cooked beef, 2 stacks of bonemeal and 64 leather. You can make at most 16 glue every 10 seconds.
 ##### Bamboo pipe
-Can be created by cutting the bamboo in half with a grindstone, then you need to carve it with a flint (put flint and 2 bamboo halves onto the 2x2 crafting grid to get 2 carved bamboo halves). You need a total of 4 bamboo halves to make the bamboo pipe. Combine 4 bamboo halves with 2 string and 1 glue to get the Bamboo pipe.
+Can be created by cutting the bamboo in half with a grindstone, then you need to carve it with a flint (put flint and 2 bamboo halves onto the 2x2 crafting grid to get 2 carved bamboo halves). You need a total of 4 bamboo halves to make the bamboo pipe. Combine 4 bamboo halves with 2 string and 1 [Glue](#glue) to get the Bamboo pipe.
 
 When worn in your main hand, it works as a less capable but cheaper bow and arrow, but they shoot wheat seeds (giving seeds, a extremly common plant material, some additional usage, and also gives players a very early game ranged option). Seeds have a theoretical max range of 80% less than the bow and arrow, and are also overall 20% slower. Each seed item can be turned into 2 seed ammo. Each seed deals half a heart of damage.
 Finally! Wearing the Bamboo pipe in the headgear slot or the off-hand slot (giving you options on if you want to swim with a shield or have a helmet with enchantments) extends the amount of blocks you can dive under the water surface by 3 blocks (4 blocks if you have fullfilled the "Master Of The Waves" achivement). 
 This makes this item infinitly usefull to carry with you even into late game.
 
 ##### Flippers
-A pair of flippers that increases Swimming speed by 23%, bringing you 8% above the default swim speed of minecraft. They are made with 4 leather, 2 glue and  2string.
+A pair of flippers that increases Swimming speed by 23%, bringing you 8% above the default swim speed of minecraft. They are made with 4 leather, 2 [Glue](#glue) and 2 string.
 
 ##### Sail
-This allows you to attach a sail to your boat, increasing it's travel speed on water by 10%. During rain it's 15%. During thunderstorms, it's detrimental to have a sail out, so keep it off during those. Cannot have enchantments but can be repaired with 3 leather. Has a complex crafting recipe, but the totals you need are 6 leather, 5 glue, 3 iron ingots, 3 sticks and 3 string. The Sail can have a "flag" attached which is basically a slot for a minecraft map. Just combine the Sail with a item frame.
+This allows you to attach a sail to your boat, increasing it's travel speed on water by 10%. During rain it's 15%. During thunderstorms, it's detrimental to have a sail out, so keep it off during those. Cannot have enchantments but can be repaired with 3 leather. Has a complex crafting recipe, but the totals you need are 6 leather, 5 [Glue](#glue), 3 iron ingots, 3 sticks and 3 string. The Sail can have a "flag" attached which is basically a slot for a minecraft map. Just combine the Sail with a item frame.
 
 ##### Super Sail
 A rare reward from the [Megalodon](#megalodon), a incredibly tough boss designed to make you shit your pants while sailing during a thunderstorm and show some respect for the sea.
@@ -62,6 +62,8 @@ You can completely dodge a attack by blocking with a shield when it attacks, but
 
 ##### Megalodon
 The megalodon is a boss type monster that has a 0,05% chance of spawning between 2000 to 8000 blocks to anyone player that is close to a ocean biome. It tries to make a spawn every 2 minutes during thunderstorms. If a Megalodon did not spawn that day, the chance increases by 0,01% up to a max of 1%. On a successfull spawn this resets.
+On a successfull spawn, it is accompanied with 3 thunder strikes in quick succession followed by a beastly roar straight from hell.
+The megalodon will stay around for 6 days after spawning and a rain weather follows it around.
 There's also a 0,001% chance of a Megalodon spawning while fishing with anything less than Luck of the Sea 1 enchantment in the ocean.
 Finally, the Megalodon can be taunted to appear by fishing in a ocean with a glowing worm.
 
