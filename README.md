@@ -63,7 +63,7 @@ A very unlucky guardian hit by the projectile of a water imp, guaranteeing it's 
 ---
 
 ### Mechanical/Balance changes and/or additions 
-- Reduced the maxair of players by 150. Effectively cutting the amount of air meter in half from Minecrafts default. (---TODO---) (Make configureable)
+- Reduced the maxair of players by 150. Effectively cutting the amount of air meter in half from Minecrafts default. (~~TODO~~) (Make configureable)
 - Reduced the speed of regaining air by 10% (TODO) (Make configureable)
 - Increased the speed at which you loose air by 15%. (TODO) (Make configureable)
 - Reduced the swim speed by 15% (TODO) (Make configureable)
