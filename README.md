@@ -9,66 +9,68 @@ Harder Water Exploration is a mod that aims to make everything regarding spendin
 
 This mod aims to change that by adding new content and rebelancing some mechanics:
 ---
+
+
 ### Items
 
-##### Glue (TODO)
+##### Glue (TODO) (Make recipe configurable: TODO)
 Glue is a core component of many recipes for the Harder Water Exploration mod. To make Glue, place a cauldron above a magma block, then add a bucket of water to the cauldron. Then toss in a steak, 2 bonemeal and a leather piece or a bunny leather piece. After 10 seconds, bubbles will appear in the cauldron, right click it to recivie 1 glue. The number of glue you get is based on the number of ingredients you tossed in, but only 16 glue per cooking, for a stack of 64 glue for example, you need to toss in 64 steaks, 2 stacks of bonemeal and 64 leather. You can make at most 16 glue every 10 seconds.
 
-##### Reinforced Iron Ingot (TODO)
+##### Reinforced Iron Ingot (TODO) (Make recipe configurable: TODO)
 Reinforced iron ingots are made by combining 2 iron ingots, they are the second core component of the Harder Water Exploration mod.
 Do note that if another mod is installed that adds "Steel Ingots", then every recipe of this mod that would use Reinforced Iron Ingot will use those instead, 
 and Reinforced Iron Ingot items will be disabled. They can be used to make normal and booster rails capable of floating in air. The "rail bridge" need supports every 13th block (as in besides the starting pillar, rail can be placed up to 12 blocks forward, with the 13th needing to be atleast 1 block pillar). You can change the up and down direction of them with a stick. Admins can create Super Rails, which do not have the 12 block limit, but can be built endlessly.
 
-##### Bamboo pipe (TODO)
+##### Bamboo pipe (TODO) (Make recipe configurable: TODO)
 Can be created by cutting the bamboo in half with a grindstone, then you need to carve it with a flint (put flint and 2 bamboo halves onto the 2x2 crafting grid to get 2 carved bamboo halves). You need a total of 4 bamboo halves to make the bamboo pipe. Combine 4 bamboo halves with 2 string and 1 [Glue](#glue) to get the Bamboo pipe.
 
 When worn in your main hand, it works as a less capable but cheaper bow and arrow, but they shoot wheat seeds (giving seeds, a extremly common plant material, some additional usage, and also gives players a very early game ranged option). Seeds have a theoretical max range of 80% less than the bow and arrow, and are also overall 20% slower. Each seed item can be turned into 2 seed ammo. Each seed deals half a heart of damage.
 Finally! Wearing the Bamboo pipe in the headgear slot or the off-hand slot (giving you options on if you want to swim with a shield or have a helmet with enchantments) extends the amount of blocks you can dive under the water surface by 3 blocks (4 blocks if you have fullfilled the "Master Of The Waves" achivement). 
 This makes this item infinitly usefull to carry with you even into late game.
 
-##### Flippers (TODO)
+##### Flippers (TODO) (Make recipe configurable: TODO)
 A pair of flippers that increases Swimming speed by 23%, bringing you 8% above the default swim speed of minecraft. They are made with 4 leather, 2 [Glue](#glue) and 2 string.
 
-##### Sail (TODO)
+##### Sail (TODO) (Make recipe configurable: TODO)
 This allows you to attach a sail to your boat, increasing it's travel speed on water by 10%. During rain it's 15%. During thunderstorms, it's detrimental to have a sail out, so keep it off during those. Cannot have enchantments but can be repaired with 3 leather. Has a complex crafting recipe, but the totals you need are 6 leather, 5 [Glue](#glue), 3 iron ingots, 3 sticks and 3 string. The Sail can have a "flag" attached which is basically a slot for a minecraft map. Just combine the Sail with a item frame.
 
-##### Super Sail (TODO)
+##### Super Sail (TODO) (Make recipe configurable: TODO)
 A rare reward from the [Megalodon](#megalodon), a incredibly tough boss designed to make you shit your pants while sailing during a thunderstorm and show some respect for the sea.
 The Super Sail gives you a massive 25% speed boost to boats on water, During rain it's 30%! However like the normal sail, during thunderstorms it's detrimental to have it out. 
 It cannot be crafted and cannot be repaired (one can toggle to make it repairable however, in which case phantom membranes are required, 3 of them).
 
-##### Chest Attachment (TODO)
+##### Chest Attachment (TODO) (Make recipe configurable: TODO)
 Adding this to a boat allows you to attach a chest to the boat, works kinda like the donkey chest works. Crafted with 1 chest, 2 string and 4 iron ingots.
 
-##### Enderchest Attachment (TODO)
+##### Enderchest Attachment (TODO) (Make recipe configurable: TODO)
 Adding this to a boat allows you to attach a enderchest to the boat, works kinda like the donkey chest but has enderchest properties. Cannot be crafted.
 
-##### Megalodon Tooth (TODO)
+##### Megalodon Tooth (TODO) (Make recipe configurable: TODO)
 Basically a trophy gained for killing the [Megalodon](#megalodon).
 
-##### Harpoon Launcher (TODO)
+##### Harpoon Launcher (TODO) (Make recipe configurable: TODO)
 The Harpoon Launcher is used to launch Harpoons, as they are far to heavy for a normal player to use as a weapon.
 The Harpoon Launcher can have the Punch, Infinity or Mending enchantments, but only one of them at a time.
 It is made by combining 2 sticks and 3 [Reinforced Iron Ingots](#reinforced_iron_ingot) for a "Harpoon Launcher Part" and then combining the part with 4 firework charges and 4 gunpowder charges.
 
-##### Harpoon (TODO)
+##### Harpoon (TODO) (Make recipe configurable: TODO)
 A massive stick of improvised metal that deals massive damage to water creatures, while dealing regular arrow damage on land unless falling, in which case they do damage like a falling Anvil would. The only possible enchant a Harpoon can be tipped with is Slowness 1.
 Harpoons are made by combining 3 [Reinforced Iron Ingots](#reinforced_iron_ingot) (or 3 Steel Ingots from another mod if they add such as thing), a block of Iron, and 1 gunpowder.
 
-##### Cursed Guardian Remains (TODO)
+##### Cursed Guardian Remains (TODO) (Make recipe configurable: TODO)
 A very unlucky guardian hit by the projectile of a water imp, guaranteeing it's death. By killing the guardian before it expires, you obtain the cursed remains of the monster.
 
 ---
 
 ### Mechanical/Balance changes and/or additions 
-- Reduced the maxair of players by 150. Effectively cutting the amount of air meter in half from Minecrafts default. (TODO)
-- Reduced the speed of regaining air by 10% (TODO)
-- Increased the speed at which you loose air by 15%. (TODO)
-- Reduced the swim speed by 15% (TODO)
-- NEW PASSIVE ABILITY: Diving while looking straight down from a height of atleast 10 blocks give you a 5% swimspeed boost for 1 second, which can scale to 15% swimspeed boost for 3 seconds when from a height of 30 blocks and above. (TODO)
-- Landing in water from a height of above 35 blocks will do 5 hearts of damage. Above 50 blocks is a instant kill. if you have a feather falling enchantment then you take no damage at all. (TODO)
-- During rain or thunderstorm, magma bubble columns grow to cover 8 blocks instead of just above it. And during Thunder they are also 50% stronger at pulling, and they will slow players by 80%. (TODO)
-- Dolphins grace is nerfed by 50% on all levels. (TODO)
+- Reduced the maxair of players by 150. Effectively cutting the amount of air meter in half from Minecrafts default. (---TODO---) (Make configureable)
+- Reduced the speed of regaining air by 10% (TODO) (Make configureable)
+- Increased the speed at which you loose air by 15%. (TODO) (Make configureable)
+- Reduced the swim speed by 15% (TODO) (Make configureable)
+- NEW PASSIVE ABILITY: Diving while looking straight down from a height of atleast 10 blocks give you a 5% swimspeed boost for 1 second, which can scale to 15% swimspeed boost for 3 seconds when from a height of 30 blocks and above. (TODO) (Make configureable)
+- Landing in water from a height of above 35 blocks will do 5 hearts of damage. Above 50 blocks is a instant kill. if you have a feather falling enchantment then you take no damage at all. (TODO) (Make configureable)
+- During rain or thunderstorm, magma bubble columns grow to cover 8 blocks instead of just above it. And during Thunder they are also 50% stronger at pulling, and they will slow players by 80%. (TODO) (Make configureable)
+- Dolphins grace is nerfed by 50% on all levels. (TODO) (Make configureable)
 - 
 
 ---

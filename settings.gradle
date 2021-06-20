@@ -4,6 +4,17 @@ pluginManagement {
             name = 'Fabric'
             url = 'https://maven.fabricmc.net/'
         }
+        maven {
+            name = 'ClothConfig'
+            url "https://maven.shedaniel.me/"
+        }
         gradlePluginPortal()
     }
+
+    dependencies {
+    
+    modApi("me.shedaniel.cloth:cloth-config-fabric:v5") {
+        exclude(group: "net.fabricmc.fabric-api")
+    }
+}
 }
