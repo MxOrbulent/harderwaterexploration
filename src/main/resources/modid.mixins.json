@@ -7,7 +7,8 @@
   ],
   "client": [
     "ChangeAirMechanicsLivingEntityMixin",
-    "ChangeAirStatsEntityMixin"
+    "ChangeAirStatsEntityMixin",
+    "ChangeSwimSpeedMechanicsLivingEntityMixin"
   ],
   "injectors": {
     "defaultRequire": 1

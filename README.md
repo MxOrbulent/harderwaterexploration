@@ -66,7 +66,7 @@ A very unlucky guardian hit by the projectile of a water imp, guaranteeing it's 
 - Reduced the maxair of players by 150. Effectively cutting the amount of air meter in half from Minecrafts default. (~~TODO~~) (Make configureable)
 - Reduced the speed of regaining air by 10% (TODO) (Make configureable)
 - Increased the speed at which you loose air by 50%. (~~TODO~~) (Make configureable)
-- Reduced the swim speed by 15% (TODO) (Make configureable)
+- Reduced the swim speed by 15% (~~TODO~~) (Make configureable)
 - NEW PASSIVE ABILITY: Diving while looking straight down from a height of atleast 10 blocks give you a 5% swimspeed boost for 1 second, which can scale to 15% swimspeed boost for 3 seconds when from a height of 30 blocks and above. (TODO) (Make configureable)
 - Landing in water from a height of above 35 blocks will do 5 hearts of damage. Above 50 blocks is a instant kill. if you have a feather falling enchantment then you take no damage at all. (TODO) (Make configureable)
 - During rain or thunderstorm, magma bubble columns grow to cover 8 blocks instead of just above it. And during Thunder they are also 50% stronger at pulling, and they will slow players by 80%. (TODO) (Make configureable)
