@@ -28,7 +28,7 @@ public class ChangeAirMechanicsLivingEntityMixin {
 
 
   	@Inject(method = "getNextAirUnderwater()I", at = @At("RETURN"), cancellable = true)
-private void changereturnintovariable(CallbackInfoReturnable<Integer> value) {
+private void changereturnvaluegetNextAirUnderwater(CallbackInfoReturnable<Integer> value) {
   int additionaldrainticks = 1;
   int airbeforeadditionaldrain = value.getReturnValue();
   int airafteradditionaldrain = airbeforeadditionaldrain - additionaldrainticks;
@@ -45,6 +45,23 @@ private void changereturnintovariable(CallbackInfoReturnable<Integer> value) {
   
 }
 
+@Inject(method = "getNextAirUnderwater()I", at = @At("RETURN"), cancellable = true)
+private void changereturnintovariable(CallbackInfoReturnable<Integer> value) {
+  int additionaldrainticks = 1;
+  int airbeforeadditionaldrain = value.getReturnValue();
+  int airafteradditionaldrain = airbeforeadditionaldrain - additionaldrainticks;
+  //System.out.println("[AIR BEFORE DRAIN]: " + airbeforeadditionaldrain);
+  //System.out.println("[AIR AFTER DRAIN]: " + airafteradditionaldrain);
+  if (airafteradditionaldrain < -20) {
+    airafteradditionaldrain = -20;
+  }
+  if (airbeforeadditionaldrain <= 0) {
+    value.setReturnValue(airbeforeadditionaldrain);
+  } else {
+    value.setReturnValue(airafteradditionaldrain);
+  }
+  
+}
 /*
 @Inject(method = "getNextAirUnderwater", at = @At("TAIL"), cancellable = true)
 private void changemethod(CallbackInfoReturnable info) {
