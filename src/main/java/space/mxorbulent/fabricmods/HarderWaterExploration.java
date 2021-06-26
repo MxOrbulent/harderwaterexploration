@@ -1,9 +1,9 @@
-package net.fabricmc.example;
+package space.mxorbulent.fabricmods;
 
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.server.network.ServerPlayerEntity;
 
-public class ExampleMod implements ModInitializer {
+public class HarderWaterExploration implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		// This code runs as soon as Minecraft is in a mod-load-ready state.

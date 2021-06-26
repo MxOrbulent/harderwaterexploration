@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package space.mxorbulent.fabricmods;
 
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.player.PlayerEntity;
