@@ -147,10 +147,4 @@ This potion effectively allows you to make a copy of yourself. Each potion adds
 
 ### License
 
-This mod is available under the CC0 license, besides some few parts that themselves are not strictly under the CC0 license, but which use similar open source licenses. 
-A linkback to this github page or mxorbulent.space is appreciated, but not neccesary.
-Do note however that certain things in this mod are under their own license, as it does contain repackaged content. 
-Every single file which are so are clearly listed here along with the name of their respective license and primary creator.
-I do not make any guarantees for these files etc etc.
-
-List of files:
+This mod is available under the CC0 license.
